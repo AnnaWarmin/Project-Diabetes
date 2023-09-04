@@ -1,6 +1,8 @@
 # Project-Diabetes
 Nazwa projektu: Analiza predykcyjna zachorowalności na cukrzycę z wykorzystaniem algorytmów uczenia maszynowego
+
 Opis: W ramach projektu Data Science przeprowadziłam analizę predykcyjną w celu identyfikacji czynników wpływających na ryzyko zachorowania na cukrzycę. Projekt opierał się na zestawie danych klinicznych.
+
 Wykorzystane technologie:
 Przetwarzanie i analiza danych przy użyciu bibliotek Pandas i NumPy.
 Wizualizacja danych za pomocą narzędzi Matplotlib i Seaborn.
