@@ -1,12 +1,13 @@
 # Project-Diabetes
-Nazwa projektu: Analiza predykcyjna zachorowalności na cukrzycę z wykorzystaniem algorytmów uczenia maszynowego
+Project name: Predictive analysis of diabetes incidence using machine learning algorithms
 
-Opis: W ramach projektu Data Science przeprowadziłam analizę predykcyjną w celu identyfikacji czynników wpływających na ryzyko zachorowania na cukrzycę. Projekt opierał się na zestawie danych klinicznych.
+Description: As part of a Data Science project, I conducted a predictive analysis to identify factors influencing diabetes risk. The project was based on a clinical dataset.
 
-Wykorzystane technologie:
-Przetwarzanie i analiza danych przy użyciu bibliotek Pandas i NumPy.
-Wizualizacja danych za pomocą narzędzi Matplotlib i Seaborn.
-Implementacja i dostrojenie modeli uczenia maszynowego przy użyciu scikit-learn.
-Ocenianie wyników modeli poprzez metrykę recall
-Praca z Jupyter Notebook w celu dokumentacji kroków projektu i wyników.
-Projekt ten pozwolił mi na praktyczne zastosowanie umiejętności związanych z analizą danych, uczeniem maszynowym i wizualizacją, nauczył mnie pracy w zespole oraz rozwiązywania problemów związanych z danymi medycznymi.
+Technologies used:
+Data processing and analysis using Pandas and NumPy libraries.
+Data visualisation using Matplotlib and Seaborn tools.
+Machine learning model implementation and tuning using scikit-learn.
+Evaluating model performance through recall metrics.
+Working with Jupyter Notebook to document project steps and results.
+
+This project allowed me to put into practice skills related to data analysis, machine learning and visualisation, taught me how to work in a team and solve problems related to medical data.
